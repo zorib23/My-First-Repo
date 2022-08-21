@@ -8,7 +8,7 @@ PEPPERONI_LOCATIONS = [
 ]
 screen = turtle.Screen()
 screen.bgcolor(Background_color)
-screen.title("My Cute Pizza")
+screen.title("My Awesome Pizza")
 
 my_turtle = turtle.Turtle()
 my_turtle.pensize(5)
